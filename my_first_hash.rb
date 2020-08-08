@@ -22,6 +22,6 @@ def adding
 
   shipping_manifest["pearl necklace"] = 1
   shipping_manifest["muskets"] = 2
-  shipping_manifest[]
+  shipping_manifest["gun powder"] = 4
   shipping_manifest
 end
